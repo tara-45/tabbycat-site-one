@@ -65,7 +65,7 @@ pypng==0.20220715.0
 python-ipware==3.0.0
 PyYAML==6.0.1
 qrcode==7.4.2
-redis==5.0.4
+redis==5.2.0
 referencing==0.35.1
 rpds-py==0.18.0
 sentry-sdk==2.0.1
