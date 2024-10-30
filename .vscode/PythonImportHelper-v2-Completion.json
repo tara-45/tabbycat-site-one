@@ -34273,7 +34273,7 @@
         "kind": 5,
         "importPath": "tabbycat.settings.local",
         "description": "tabbycat.settings.local",
-        "peekOfCode": "ON_LOCAL = True\n# ==============================================================================\n# Settings that you should specify\n# ==============================================================================\nDATABASES = {\n    'default': {\n        'ENGINE'      : 'django.db.backends.postgresql',\n        'NAME'        : 'tab',  # put your PostgreSQL database's name in here\n        'USER'        : 'postgres',  # put your PostgreSQL login role's user name in here\n        'PASSWORD'    : 'tara45',  # put your PostgreSQL login role's password in here",
+        "peekOfCode": "ON_LOCAL = True\n# ==============================================================================\n# Settings that you should specify\n# ==============================================================================\nDATABASES = {\n    'default': {\n        'ENGINE'      : 'django.db.backends.postgresql',\n        'NAME'        : 'tab',  # put your PostgreSQL database's name in here\n        'USER'        : 'tabby',  # put your PostgreSQL login role's user name in here\n        'PASSWORD'    : 'tara45',  # put your PostgreSQL login role's password in here",
         "detail": "tabbycat.settings.local",
         "documentation": {}
     },
@@ -34282,7 +34282,7 @@
         "kind": 5,
         "importPath": "tabbycat.settings.local",
         "description": "tabbycat.settings.local",
-        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE'      : 'django.db.backends.postgresql',\n        'NAME'        : 'tab',  # put your PostgreSQL database's name in here\n        'USER'        : 'postgres',  # put your PostgreSQL login role's user name in here\n        'PASSWORD'    : 'tara45',  # put your PostgreSQL login role's password in here\n        'HOST'        : 'localhost',\n        'PORT'        : '5432',\n        'CONN_MAX_AGE': None,\n    }",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE'      : 'django.db.backends.postgresql',\n        'NAME'        : 'tab',  # put your PostgreSQL database's name in here\n        'USER'        : 'tabby',  # put your PostgreSQL login role's user name in here\n        'PASSWORD'    : 'tara45',  # put your PostgreSQL login role's password in here\n        'HOST'        : 'localhost',\n        'PORT'        : '5432',\n        'CONN_MAX_AGE': None,\n    }",
         "detail": "tabbycat.settings.local",
         "documentation": {}
     },
