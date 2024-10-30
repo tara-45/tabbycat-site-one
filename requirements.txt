@@ -34,7 +34,7 @@ djangorestframework==3.15.1
 drf-link-header-pagination==0.2.0
 drf-spectacular==0.27.2
 gunicorn==22.0.0
-honcho==1.1.0
+honcho==2.0.0
 html2text==2024.2.26
 hyperlink==21.0.0
 idna==3.7
